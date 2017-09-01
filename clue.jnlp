@@ -17,5 +17,5 @@
     <j2se version="1.6+"/>
     <jar href="Products/Clue.jar"/>
   </resources>
-  <application-desc main-class="Game.class"/>
+  <application-desc main-class="code.Game"/>
 </jnlp>
